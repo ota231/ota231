@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tomisin!
-- 👀 I’m interested in Full Stack Development, Mobile Development and Data Science, AI & Ml.
-- 🌱 I’m currently learning Web Development using the Odin Project.
+- 👀 I’m interested in Back Development, AI & Ml.
 - 💞️ I’m looking to collaborate on projects, hackathons.
 - 📫 How to reach me tomisinadeyemi7@gmail.com
 
