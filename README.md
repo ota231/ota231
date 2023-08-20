@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tomisin!
-- 👀 I’m interested in Back End Development, AI & Ml.
+- 👀 I’m interested in Back End Development, AI & ML.
 - 💞️ I’m looking to collaborate on projects, hackathons.
 - 📫 How to reach me tomisinadeyemi7@gmail.com
 
